@@ -51,8 +51,8 @@ Power BI dashboard with customer insights, KPIs, and sales analytics.
 
 - 📧 **Email:** karmashashank112@gmail.com  
 - 📱 **Phone:** 7610750013  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/shashank-karma-ba35852a9**  
-
+- 💼 **LinkedIn:**
+https://www.linkedin.com/in/shashank-karma-ba35852a9**
 ---
 
 <h3 align="center">🌟 Thanks for visiting my GitHub profile!</h3>
