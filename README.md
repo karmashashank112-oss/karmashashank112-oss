@@ -56,5 +56,3 @@ Power BI dashboard with customer insights, KPIs, and sales analytics.
 ---
 
 <h3 align="center">🌟 Thanks for visiting my GitHub profile!</h3>
-
-⭐ **Thanks for visiting my profile!**  
