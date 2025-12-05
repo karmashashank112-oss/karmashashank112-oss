@@ -1,41 +1,60 @@
-# 👋 Hi, I'm Shashank Karma  
-### Data Analyst | Power BI | SQL | Python | Machine Learning
-
-I am a passionate Data Analyst skilled in **Power BI, SQL, Python, and Machine Learning**, focused on turning raw data into meaningful insights and building end-to-end analytics solutions.
+<h1 align="center">👋 Hi, I'm Shashank Karma</h1>
+<h3 align="center">Data Analyst | Power BI | SQL | Python | Machine Learning</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🔎 Data Analyst with hands-on experience in dashboards & analytics  
-- 📊 Strong in Power BI, SQL & Excel  
-- 🤖 Built ML models using Python & XGBoost  
-- 🎯 Love building real-world projects and solving business problems  
-- 💼 Actively building my portfolio
+- 🎯 Passionate **Data Analyst** with hands-on experience in Power BI, SQL, Python & Machine Learning  
+- 📊 Love transforming raw data into meaningful insights and interactive dashboards  
+- 🤖 Built end-to-end ML models including **Movie Success Prediction (XGBoost)**  
+- 💼 Currently building strong portfolio projects  
+- 📚 Always learning and improving my analytical & visualization skills  
 
 ---
 
-## 🛠️ Skills  
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+## 🛠 Tech Stack  
+
+### **Languages & Tools**
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** XGBoost, Scikit-learn  
+- **Business Intelligence:** Power BI, Excel  
 - **Databases:** SQL (MySQL)  
-- **Visualization:** Power BI, Excel Dashboards  
-- **Machine Learning:** XGBoost, Feature Engineering  
-- **Tools:** GitHub, Jupyter Notebook
+- **Other Tools:** Jupyter Notebook, GitHub, Tkinter GUI  
 
 ---
 
 ## 📂 Featured Projects  
-### 🔹 [E-Commerce Sales Analytics Dashboard](https://github.com/karmashashank112-oss/E-Commerce-Sales-Analytics)  
-Power BI dashboard + SQL analysis for sales & customer insights.
 
-### 🔹 [Movie Success Prediction Project](https://github.com/karmashashank112-oss/Movie-Success-Prediction)  
-ML model + Power BI + Tkinter GUI to predict movie success.
+### 🔹 **🎬 Movie Success Prediction & Insights Dashboard**  
+**Machine Learning + Power BI + Tkinter GUI**  
+Predicts movie success (Hit/Flop) and visualizes insights.  
+🔗 Repo: https://github.com/karmashashank112-oss/Movie-Success-Prediction  
+
+---
+
+### 🔹 **🛒 E-Commerce Sales Analytics Dashboard**  
+Power BI dashboard with customer insights, KPIs, and sales analytics.  
+🔗 Repo: https://github.com/karmashashank112-oss/E-Commerce-Sales-Analytics  
 
 ---
 
-## 📬 Contact Me  
-📧 Email: **karmashashank112@gmail.com**  
-📱 Phone: **7610750013**  
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karmashashank112-oss&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmashashank112-oss&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
+
+## 📫 Connect With Me  
+
+- 📧 **Email:** karmashashank112@gmail.com  
+- 📱 **Phone:** 7610750013  
+- 💼 **LinkedIn:** *(Add your LinkedIn link here)*  
+
+---
+
+<h3 align="center">🌟 Thanks for visiting my GitHub profile!</h3>
 
 ⭐ **Thanks for visiting my profile!**  
