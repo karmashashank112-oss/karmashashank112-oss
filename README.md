@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Shashank Karma  
+### Data Analyst | Power BI | SQL | Python | Machine Learning
 
-<!--
-**karmashashank112-oss/karmashashank112-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Data Analyst skilled in **Power BI, SQL, Python, and Machine Learning**, focused on turning raw data into meaningful insights and building end-to-end analytics solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔎 Data Analyst with hands-on experience in dashboards & analytics  
+- 📊 Strong in Power BI, SQL & Excel  
+- 🤖 Built ML models using Python & XGBoost  
+- 🎯 Love building real-world projects and solving business problems  
+- 💼 Actively building my portfolio
+
+---
+
+## 🛠️ Skills  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Databases:** SQL (MySQL)  
+- **Visualization:** Power BI, Excel Dashboards  
+- **Machine Learning:** XGBoost, Feature Engineering  
+- **Tools:** GitHub, Jupyter Notebook
+
+---
+
+## 📂 Featured Projects  
+### 🔹 [E-Commerce Sales Analytics Dashboard](https://github.com/karmashashank112-oss/E-Commerce-Sales-Analytics)  
+Power BI dashboard + SQL analysis for sales & customer insights.
+
+### 🔹 [Movie Success Prediction Project](https://github.com/karmashashank112-oss/Movie-Success-Prediction)  
+ML model + Power BI + Tkinter GUI to predict movie success.
+
+---
+
+## 📬 Contact Me  
+📧 Email: **karmashashank112@gmail.com**  
+📱 Phone: **7610750013**  
+
+---
+
+⭐ **Thanks for visiting my profile!**  
