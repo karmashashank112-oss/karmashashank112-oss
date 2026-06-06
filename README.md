@@ -43,7 +43,7 @@ Analyzed sales data to identify revenue trends, top products, and customer behav
 ---
 
 ### 📉 Customer Churn Prediction
-**Tools:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn
+**Tools:** Python · SQL · Excel · Power BI
 Explored customer data to identify churn drivers through EDA. Built a classification model and visualized results for business interpretation.
 🔗 [View Project](https://github.com/karmashashank112-oss/Customer-Churn-Prediction)
 
